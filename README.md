@@ -6,7 +6,7 @@
  
  </div>
 
-## :man_technologist: My name is Ali Hashemian Nejad (Mr. ALi Cyberi) and I'm interested in programming and graphic design
+## :man_technologist: My name is Ali Hashemian Nejad (ALi Cyberi) and I'm interested in programming and graphic design
 
 <br>
 
