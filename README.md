@@ -9,7 +9,6 @@
 ## :man_technologist: My name is Ali Hashemian Nejad (ALi Cyberi) and I'm interested in programming and graphic design
 
 <br>
-
 <h2>Biography 👦</h2>
 
 ● Currently I'm learning and practicing courses and algorithms.
