@@ -51,12 +51,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,github,linux" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,arduino,github,linux,pr,ai" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,wordpress,ps" />
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,wordpress,ps,xd" />
   </a>
 </p>
 
