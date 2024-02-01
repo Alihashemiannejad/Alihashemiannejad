@@ -32,12 +32,13 @@
 <br>
 <h2>Social Networks 🌐</h2>
 
-[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] [![gmail	][4.3]][5]
+[![Twitter][1.2]][1] [![LinkedIn][2.2]][2] [![Instagram][3.2]][3] [![Telegram][4.2]][4] [![gmail][5.3]][5]
 
 [1.2]: https://s4.uupload.ir/files/twitter_prkb.png
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
+[5.3]: https://s4.uupload.ir/files/gmail_q47u.png
 
 [1]: https://twitter.com/Alihashemiannej
 [2]: https://www.linkedin.com/in/ali-hashemiannejad-5991a9262/
