@@ -11,6 +11,8 @@
 <br>
 <h2>Biography 👦</h2>
 
+● I don't afraid of anyone except god 
+
 ● Currently I'm learning and practicing courses and algorithms.
 
 ● I love computers and enjoy working with them
