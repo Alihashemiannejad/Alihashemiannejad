@@ -38,7 +38,7 @@
 [2.2]: https://s4.uupload.ir/files/linkedin_amwn.png
 [3.2]: https://s4.uupload.ir/files/instagram_6djz.png
 [4.2]: https://s4.uupload.ir/files/telegram_q47u.png
-[5.3]: https://s4.uupload.ir/files/gmail_q47u.png
+[5.3]: 
 
 [1]: https://twitter.com/Alihashemiannej
 [2]: https://www.linkedin.com/in/ali-hashemiannejad-5991a9262/
