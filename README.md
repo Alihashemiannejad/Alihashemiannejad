@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom,arduino,github,gitlab,linux,ubuntuوpr,ai,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom,arduino,github,gitlab,linux,ubuntu,pr,ai,powershell" />
   </a>
 </p>
 <p align="center">
