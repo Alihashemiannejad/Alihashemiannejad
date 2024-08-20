@@ -54,15 +54,10 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom,arduino,github,gitlab,linux,ubuntu,pr,ai,powershell" />
   </a>
- <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,atom,arduino,github,gitlab,linux,ubuntu,pr,ai,powershell" />
-  </a>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=python,c,html,css,wordpress,ps,xd,kali,windows	" />
   </a>
-</p>
 
 <h2>Support Me 🙏</h2>
 
