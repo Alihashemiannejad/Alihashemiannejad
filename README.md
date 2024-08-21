@@ -52,12 +52,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,visualstudio,atom,arduino,bash,github,gitlab,linux,ubuntu,pr,ai,powershell" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,visualstudio,atom,arduino,bash,github,gitlab,linux,ubuntu,pr,ai,powershell,raspberrypi" />
   </a>
   </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,vim,vscodium,c,html,css,wordpress,ps,xd,kali,windows,redhat,anaconda,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=python,pycharm,vim,vscodium,c,html,css,wordpress,ps,xd,kali,windows,redhat,anaconda,androidstudio" />
   </a>
   </p>
 
