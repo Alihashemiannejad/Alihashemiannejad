@@ -44,8 +44,6 @@
 [3]: https://www.instagram.com/alihashemiannejad
 [4]: https://telegram.me/Alihashemiannejad
 
-<p align="left">
-    <a href="https://www.instagram.com/nulldevelopr" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 
 <img align='left' height='160' style="margin-left:20px" src='assets/programmer.gif' alt='Skills'>
 
